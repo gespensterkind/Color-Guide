@@ -29,7 +29,3 @@ Presets are stored in presets.json and can be edited directly in the GUI or manu
 
 ```bash
 python esphome_color_gui.py
-
-## Presets
-
-Presets are stored in presets.json and can be edited directly in the GUI or manually in the file.
